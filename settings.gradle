@@ -1,0 +1,4 @@
+include ':speech-vad'
+include ':speech'
+include ':app'
+rootProject.name = "skytalker"
